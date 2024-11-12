@@ -1,5 +1,5 @@
 PlatformWorksWeb
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:1055/1*dZA2XUPPibLK59U4-PK82Q.png" width="400"> </p>
+<p align="center"> <img src="https://blog.shanelka.com/_astro/Vite%20_%20React.781a56ca_2m1tyk.jpg" width="400"> </p>
 Descripción4
 
 PlatformWorksWeb es un proyecto de frontend en React, TypeScript y Vite, diseñado bajo los principios de arquitectura limpia. La aplicación utiliza una arquitectura por capas para asegurar una separación clara de responsabilidades, mejorando la mantenibilidad y escalabilidad del código.
@@ -55,6 +55,7 @@ El servidor se ejecutará en http://localhost:3000 de forma predeterminada.
 Estructura del Proyecto
 
 El proyecto sigue una arquitectura en capas organizada en directorios para mantener un código limpio y modular.
+
 
 src/
 │   App.tsx
